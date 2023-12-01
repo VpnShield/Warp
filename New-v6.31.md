@@ -1,10 +1,10 @@
 {
-"Title": "حمایت از اسپانسر برنامه 🙏🏻",
-"Description": "سلام ، لطفا برای جلوگیری از قطع شدن فیلترشکن حتما عضو کانال تلگرامی اسپانسر ما شوید در غیر این صورت اتصال شما قطع میشود ❤️",
-"Link": "tg://join?invite=BVnhUgtLMJFlOTc8",
-"ColorWave": "#7C4DFF",
-"Color": "#FF9100",
-"ColorWaveTwo": "#651FFF",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "855585",
-"ShowTime": "2",
-"Button": " عضویت در کانال تلگرام ",
-"ButtonCancell": "  ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
