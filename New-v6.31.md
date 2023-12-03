@@ -20,5 +20,5 @@
 "Button": "  دریافت نسخه جدید  ",
 "ButtonCancell": " بعدا ",
 "Closure": "false",
-"Show": "on"
+"Show": "off"
 }
