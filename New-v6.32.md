@@ -1,10 +1,10 @@
 {
-"Title": "اطلاعیه #مهم :",
-"Description": "انگار شما عضو کانال تلگرام ما نیستید ، برای جلوگیری از قطع شدن فیلترشکنتون فورا عضو کانال تلگرام ما بشید 😊👇🏻",
-"Link": "tg://join?invite=gpO0uBBDgiQ3NWY0",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FFC400",
+"Title": "🎉 سال نو مبارک 🎉",
+"Description": "به امید خدا تو این سال جدید به خواسته‌هات برسی و از ته دل شاد باشی 😍❤️\nاگر مشکلی با فیلترشکنت داری یا سوال داری عضو گروه رفع اشکال بشو ما کمکت میکنیم👇🏻",
+"Link": "tg://join?invite=wAFBEeBfVfQzZDc0",
+"ColorWave": "#76FF03",
+"Color": "#76FF03",
+"ColorWaveTwo": "#00C853",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "false",
-"MessageID": "0102971762",
+"Cancellable": "true",
+"MessageID": "0193877766291000",
 "ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
+"Button": " عضویت فوری ",
+"ButtonCancell": " نمیخوام ",
 "Closure": "true",
 "Show": "on"
 }
