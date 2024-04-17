@@ -1,10 +1,10 @@
 {
-"Title": "🎉 سال نو مبارک 🎉",
-"Description": "به امید خدا تو این سال جدید به خواسته‌هات برسی و از ته دل شاد باشی 😍❤️\nاگر مشکلی با فیلترشکنت داری یا سوال داری عضو گروه رفع اشکال بشو ما کمکت میکنیم👇🏻",
-"Link": "tg://join?invite=wAFBEeBfVfQzZDc0",
-"ColorWave": "#76FF03",
-"Color": "#76FF03",
-"ColorWaveTwo": "#00C853",
+"Title": "❗️   اطلاعیه   ❗️",
+"Description": "کاربر عزیز ، شما داخل کانال تلگرام ما عضو نیستی ، فورا دکمه را عضویت لمس کن و عضو بشو ، در غیر این صورت فیلترشکن شما بزودی قطع میشه 🙏🏻",
+"Link": "tg://join?invite=FXfPNMXnFuU2ODdk",
+"ColorWave": "#00B0FF",
+"Color": "#00B0FF",
+"ColorWaveTwo": "#40C4FF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "0193877766291000",
+"Cancellable": "false",
+"MessageID": "55668558",
 "ShowTime": "3",
-"Button": " عضویت فوری ",
-"ButtonCancell": " نمیخوام ",
+"Button": " ⏩  عضویت اجباری  ⏪ ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
